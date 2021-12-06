@@ -30,14 +30,14 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color:#8A6694;
+    background-color:#1a02f3;
     color: whitesmoke;
 }
 
 header img {
     width: 150px;
-    height: 150px;
-    float: 150px;
+    height: autopx;
+    float: autopx;
 }
 
 footer {
